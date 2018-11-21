@@ -1,0 +1,47 @@
+body, html, h1{
+	color: white;
+}
+
+
+.menu{
+  height:100px;
+ text-align: center;
+ background-color:pink;
+}
+
+
+.card{
+	width:700px;
+	height:275px;
+	background-size: cover;
+	background-position: center;
+	text-align: center;
+	margin:10px;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	text-overflow: 
+}
+
+.maps{
+	position: sticky;
+	top: 10px;
+	right: 0px;
+	background-color: black;
+}
+
+.white {
+	color: white;
+}
+
+.corps-layout{
+	display: flex;
+	justify-content: space-between;
+
+}
+
+.container  {
+/*	display: flex;
+	justify-content: space-around;
+	width: 100% !important;*/
+}
